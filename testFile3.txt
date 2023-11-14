@@ -1,0 +1,1 @@
+Hi this is the text from the git bash terminal. And I am loving it. Thank you GitHub.
